@@ -1,5 +1,7 @@
 {
     "name": "testingusernousername/gitpages",
+    "description": "Your project description here",
+    "license": "proprietary",
     "require": {
         "codeigniter4/framework": "^4.1"
     }
